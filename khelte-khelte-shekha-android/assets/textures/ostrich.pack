@@ -1,0 +1,61 @@
+
+ostrich.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+ostrich-01
+  rotate: false
+  xy: 1, 173
+  size: 161, 170
+  orig: 161, 170
+  offset: 0, 0
+  index: -1
+ostrich-02
+  rotate: false
+  xy: 1, 1
+  size: 161, 170
+  orig: 161, 170
+  offset: 0, 0
+  index: -1
+ostrich-03
+  rotate: false
+  xy: 164, 173
+  size: 161, 170
+  orig: 161, 170
+  offset: 0, 0
+  index: -1
+ostrich-04
+  rotate: false
+  xy: 164, 1
+  size: 161, 170
+  orig: 161, 170
+  offset: 0, 0
+  index: -1
+ostrich-05
+  rotate: false
+  xy: 327, 173
+  size: 161, 170
+  orig: 161, 170
+  offset: 0, 0
+  index: -1
+ostrich-06
+  rotate: false
+  xy: 327, 1
+  size: 161, 170
+  orig: 161, 170
+  offset: 0, 0
+  index: -1
+ostrich-07
+  rotate: false
+  xy: 490, 173
+  size: 161, 170
+  orig: 161, 170
+  offset: 0, 0
+  index: -1
+ostrich-08
+  rotate: false
+  xy: 490, 1
+  size: 161, 170
+  orig: 161, 170
+  offset: 0, 0
+  index: -1

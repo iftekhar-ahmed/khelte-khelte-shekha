@@ -1,0 +1,40 @@
+
+tiger.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+tiger-01
+  rotate: false
+  xy: 1, 1
+  size: 117, 60
+  orig: 117, 60
+  offset: 0, 0
+  index: -1
+tiger-02
+  rotate: false
+  xy: 120, 1
+  size: 117, 60
+  orig: 117, 60
+  offset: 0, 0
+  index: -1
+tiger-03
+  rotate: false
+  xy: 239, 1
+  size: 117, 60
+  orig: 117, 60
+  offset: 0, 0
+  index: -1
+tiger-04
+  rotate: false
+  xy: 358, 1
+  size: 117, 60
+  orig: 117, 60
+  offset: 0, 0
+  index: -1
+tiger-05
+  rotate: false
+  xy: 477, 1
+  size: 117, 60
+  orig: 117, 60
+  offset: 0, 0
+  index: -1

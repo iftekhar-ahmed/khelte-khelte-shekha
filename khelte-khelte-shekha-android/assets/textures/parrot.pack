@@ -1,0 +1,54 @@
+
+parrot.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+parrot-01
+  rotate: false
+  xy: 1, 269
+  size: 175, 132
+  orig: 175, 132
+  offset: 0, 0
+  index: -1
+parrot-02
+  rotate: false
+  xy: 1, 135
+  size: 175, 132
+  orig: 175, 132
+  offset: 0, 0
+  index: -1
+parrot-03
+  rotate: false
+  xy: 178, 269
+  size: 175, 132
+  orig: 175, 132
+  offset: 0, 0
+  index: -1
+parrot-04
+  rotate: false
+  xy: 1, 1
+  size: 175, 132
+  orig: 175, 132
+  offset: 0, 0
+  index: -1
+parrot-05
+  rotate: false
+  xy: 178, 135
+  size: 175, 132
+  orig: 175, 132
+  offset: 0, 0
+  index: -1
+parrot-06
+  rotate: false
+  xy: 355, 269
+  size: 175, 132
+  orig: 175, 132
+  offset: 0, 0
+  index: -1
+parrot-07
+  rotate: false
+  xy: 178, 1
+  size: 175, 132
+  orig: 175, 132
+  offset: 0, 0
+  index: -1

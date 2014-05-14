@@ -1,0 +1,47 @@
+
+elephant.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+elephant-01
+  rotate: false
+  xy: 1, 151
+  size: 89, 73
+  orig: 89, 73
+  offset: 0, 0
+  index: -1
+elephant-02
+  rotate: false
+  xy: 1, 76
+  size: 89, 73
+  orig: 89, 73
+  offset: 0, 0
+  index: -1
+elephant-03
+  rotate: false
+  xy: 92, 151
+  size: 89, 73
+  orig: 89, 73
+  offset: 0, 0
+  index: -1
+elephant-04
+  rotate: false
+  xy: 1, 1
+  size: 89, 73
+  orig: 89, 73
+  offset: 0, 0
+  index: -1
+elephant-05
+  rotate: false
+  xy: 92, 76
+  size: 89, 73
+  orig: 89, 73
+  offset: 0, 0
+  index: -1
+elephant-06
+  rotate: false
+  xy: 92, 1
+  size: 89, 73
+  orig: 89, 73
+  offset: 0, 0
+  index: -1

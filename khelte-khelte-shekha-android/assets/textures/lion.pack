@@ -1,0 +1,54 @@
+
+lion.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+lion-01
+  rotate: false
+  xy: 1, 287
+  size: 187, 141
+  orig: 187, 141
+  offset: 0, 0
+  index: -1
+lion-02
+  rotate: false
+  xy: 1, 144
+  size: 187, 141
+  orig: 187, 141
+  offset: 0, 0
+  index: -1
+lion-03
+  rotate: false
+  xy: 190, 287
+  size: 187, 141
+  orig: 187, 141
+  offset: 0, 0
+  index: -1
+lion-04
+  rotate: false
+  xy: 1, 1
+  size: 187, 141
+  orig: 187, 141
+  offset: 0, 0
+  index: -1
+lion-05
+  rotate: false
+  xy: 190, 144
+  size: 187, 141
+  orig: 187, 141
+  offset: 0, 0
+  index: -1
+lion-06
+  rotate: false
+  xy: 379, 287
+  size: 187, 141
+  orig: 187, 141
+  offset: 0, 0
+  index: -1
+lion-07
+  rotate: false
+  xy: 190, 1
+  size: 187, 141
+  orig: 187, 141
+  offset: 0, 0
+  index: -1

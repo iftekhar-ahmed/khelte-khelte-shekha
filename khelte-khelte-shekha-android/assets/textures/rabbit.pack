@@ -1,0 +1,61 @@
+
+rabbit.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+rabbit-01
+  rotate: false
+  xy: 1, 191
+  size: 250, 188
+  orig: 250, 188
+  offset: 0, 0
+  index: -1
+rabbit-02
+  rotate: false
+  xy: 1, 1
+  size: 250, 188
+  orig: 250, 188
+  offset: 0, 0
+  index: -1
+rabbit-03
+  rotate: false
+  xy: 253, 191
+  size: 250, 188
+  orig: 250, 188
+  offset: 0, 0
+  index: -1
+rabbit-04
+  rotate: false
+  xy: 253, 1
+  size: 250, 188
+  orig: 250, 188
+  offset: 0, 0
+  index: -1
+rabbit-05
+  rotate: false
+  xy: 505, 191
+  size: 250, 188
+  orig: 250, 188
+  offset: 0, 0
+  index: -1
+rabbit-06
+  rotate: false
+  xy: 505, 1
+  size: 250, 188
+  orig: 250, 188
+  offset: 0, 0
+  index: -1
+rabbit-07
+  rotate: false
+  xy: 757, 191
+  size: 250, 188
+  orig: 250, 188
+  offset: 0, 0
+  index: -1
+rabbit-08
+  rotate: false
+  xy: 757, 1
+  size: 250, 188
+  orig: 250, 188
+  offset: 0, 0
+  index: -1

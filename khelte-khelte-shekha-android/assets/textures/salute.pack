@@ -1,0 +1,33 @@
+
+salute.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+salute-01
+  rotate: false
+  xy: 1, 353
+  size: 350, 350
+  orig: 350, 350
+  offset: 0, 0
+  index: -1
+salute-02
+  rotate: false
+  xy: 1, 1
+  size: 350, 350
+  orig: 350, 350
+  offset: 0, 0
+  index: -1
+salute-03
+  rotate: false
+  xy: 353, 353
+  size: 350, 350
+  orig: 350, 350
+  offset: 0, 0
+  index: -1
+salute-04
+  rotate: false
+  xy: 353, 1
+  size: 350, 350
+  orig: 350, 350
+  offset: 0, 0
+  index: -1

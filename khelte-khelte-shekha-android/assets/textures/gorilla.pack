@@ -1,0 +1,33 @@
+
+gorilla.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+gorilla-01
+  rotate: false
+  xy: 1, 1
+  size: 190, 150
+  orig: 190, 150
+  offset: 0, 0
+  index: -1
+gorilla-02
+  rotate: false
+  xy: 193, 1
+  size: 190, 150
+  orig: 190, 150
+  offset: 0, 0
+  index: -1
+gorilla-03
+  rotate: false
+  xy: 385, 1
+  size: 190, 150
+  orig: 190, 150
+  offset: 0, 0
+  index: -1
+gorilla-04
+  rotate: false
+  xy: 577, 1
+  size: 190, 150
+  orig: 190, 150
+  offset: 0, 0
+  index: -1
